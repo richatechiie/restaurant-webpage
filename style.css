@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(229, 199, 162);
+    margin: 0;
+    padding: 0;
+}
+nav{
+    margin: 30px;
+    padding: 10px;
+    align-items: center;
+}
+nav a{
+    color: rgb(232, 179, 46);
+    background-color: rgba(71, 5, 5, 0.955);
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 10px ;
+}
+.box{
+    width: 600px;
+    height: 600px;
+    float: left;
+    margin: 15px;
+}
+#div1 img{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+}
+.bgimg{
+    color: rgb(232, 179, 46);
+    background-color: rgba(71, 5, 5, 0.955);
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+#div2{
+    margin-top: 30px;
+}
+.images{   
+    float: left;
+    margin: 30px;
+    padding: 10px;
+}
